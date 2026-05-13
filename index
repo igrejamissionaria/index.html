@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+            
+        <head><title>A vontade de Deus é esta que ninguem peree mas seja Salvo</title>
+        <meta name="description" content="perguntas e respostas Bíblicas">
+        </head>
+    <body>
+            <header>
+                <h1>A vontade de Deus é esta que ninguem peree mas seja Salvo</h1>
+                <p>Perguntas e respostas Bíblicas</p>
+            </header>
+            <main>
+                <section>
+                    <h1>Teste de Conhecimentos Bíblicos</h1>
+                    <p>Estas perguntas foi elaborada com propósito de estimular sua mente a raciocionar de forma literal sobre as vertentes da de umadas três relegiões com raizes Abraâmicas a saber o <strong><abbr title="Crescer na graça e no conhecimento (Pedro 3:18) é um chamado bíblico para o amadurecimento contínuo na fé cristã, equilibrando o favor imerecido de Deus (graça) com o entendimento profundo de Jesus Cristo (conhecimento). É um processo diário de transformação, e não automático, que envolve leitura da Bíblia, oração e aplicação da misericórdia divina nas relações" (2 Pedro 3:18) é um chamado bíblico para o amadurecimento contínuo na fé cristã, equilibrando o favor imerecido de Deus (graça) com o entendimento profundo de Jesus Cristo (conhecimento). É um processo diário de transformação, e não automático, que envolve leitura da Bíblia, oração e aplicação da misericórdia divina nas relações.">Cristianismo!</strong>
+                    </p></abbr> <p>Crescer no Conhecimento: Envolve ir além do conhecimento superficial de <em>Jesus Cristo</em>, buscando um relacionamento íntimo com Ele por meio da Palavra de Deus (Bíblia) e da vivência diária.</p>
+                </section>
+<!--introdução-->
+                <section>..
+<!--Pergunta 1: múltipla escolha-->
+                </section>
+                <section>
+                <h2>pergunta1: Cristo aparece aos Díscipulos após a ressureiçção em que tipo de corpo?</h2>
+                <form>
+                    
+                    <input type="radio" value="python" id="p1a" name="pergunta1">
+                    <label for="p1a">Fisico e Glorificado</label><br>
+                        <input type="radio" value="HTML" id="p1b" name="pergunta1">
+                    <label for="p1b">/somente natureza humana</label><br>
+                        <input type="radio" value="Glorificado com natureza humana" id="p1c" name="pergunta1">
+                    <label for="p1c">Glorificado</label><br>
+                        <input type="radio" value="totalmente Glorificado" id="p1d" name="pergunta1">
+                    <label for="p1d">totalmente Gklorificado</label><br>
+                    </form>
+                </section>
+            </main>
+            <footer></footer>        
+    </body>
+
+
+</html> 
